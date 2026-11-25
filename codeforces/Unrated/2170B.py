@@ -3,7 +3,7 @@
 // Language: Python3
 // Verdict: Accepted
 // URL: 
-// Solved on: 2026-11-25T05:22:15.860Z
+// Solved on: 2026-11-25T05:28:38.201Z
 
 t = int(input())
 
