@@ -4,7 +4,7 @@
 // Language: python3
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/palindrome-number/
-// Solved on: 2026-11-28T09:27:32.542Z
+// Solved on: 2026-11-28T09:43:53.801Z
 
 class Solution:
     def isPalindrome(self, x: int) -> bool:
