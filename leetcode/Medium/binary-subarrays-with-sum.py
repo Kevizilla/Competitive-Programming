@@ -4,7 +4,7 @@
 // Language: python3
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/binary-subarrays-with-sum/
-// Solved on: 2026-11-28T09:28:18.648Z
+// Solved on: 2026-11-28T09:35:58.931Z
 
 class Solution:
     def numSubarraysWithSum(self, nums: list[int], goal: int) -> int:
